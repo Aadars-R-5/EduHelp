@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">EduHelp</string>
+    <string name="profile">About</string>
+    <string name="description_txt"><i>EduHelp</i>\n
+        \n Familiarize  about  the educational  facilities  offered  by various  schools  and  colleges
+        \n Schools  and  Colleges  are  arranged  in  the app according  to  their  rating
+        \n Users  can  check  seat  availability  of  the Institution , Admission procedure, academic  achievement  of  institution , faculty details , pass out students review ,
+        \n Photographs  of  institution  along  with  their contact  numbers.
+        \n This project is created by S6 CSE students of JCMCSIIT and is done for the sole purpose of miniproject
+
+    </string>
+
+    <string name="ace_info"><i>ACE College of Engineering, one of the top engineering colleges in Trivandrum, is situated in a picturesque location – in a historically important place – Thiruvallam close to the famous international tourist destination Kovalam beach. \n
+        It is around 9 kms from Trivandrum Railway Station and Thampanoor KSRTC Bus Stand. The nearest Airport is the Thiruvananthapuram International Airport which is just 7 kms away.
+
+When we consider some of the top engineering colleges in Kerala, Ace College of Engineering has a prominent place in the list. Our engineering college runs on the philosophy of giving equal opportunities to students from all walks of life and to train them into a manner that when they venture out on their own, they are ready to take into the world, with poise.
+
+There are various engineering colleges in Trivandrum but what distinguishes ACE College of Engineering from the rest is our purpose. We are promoted by Manarul Huda Trust, a not for profit charitable trust focusing on education sector since 1980’s. A long tradition in social service and a commitment to give the best to the society keeps us ahead in this competitive sector. The trustees also run many educational institutions overseas under The New Indian Model School banner.
+
+At ACE, we provide a vast campus, state of infrastructure, well equipped labs, and faculty members who are eminent personalities with a quality experience in the field of engineering. Our campus comprises of a library, hostel, canteen and dedicated area for sports, as we understand that physical and spiritual fitness is as important as mental vigor.
+
+We encourage our students to take part in various extracurricular activities and community works, as such experiences enrich and make them more responsible.</i></string>
+    <string name="ace_msn"><i>Mission
+
+To equip the students with conceptual, technical knowledge and competence required for the practice of their profession with moral and ethical values.
+
+To maximize the capability and potential of staff and students to enable them to provide effective, responsive and innovative services and excellent learning environment.
+
+To provide an information rich environment to support and encourage excellence in teaching and research that connects strongly with the issues of our local, national and international stakeholders.
+
+Vision
+
+To become a globally recognized benchmark in technical and research education that value excellence, quality and universal services.</i></string>
+    <string name="asb_msn"><i>MISSION
+Enhance Communication, Critical thinking, Business Leadership and Information management capability of the students and the faculty by grounding them in modern business practices.
+Create a community of faculty, students and industry that collaborate to enhance the learning in various disciplines and functions through experiential learning. This effort extends to creating and supporting entrepreneurs.
+Deliver the perfect opportunity for students to learn and grow in a diverse community that promotes plurality of ideas. The tradition of assimilating diverse elements into campus will allow students to broaden their horizons and pave way for multi- cultural interactions. ASB will continue to encourage its students to observe the professional code of conduct and embrace the responsibilities that come, with being a part of the community.</i></string>
+    <string name="asb_info"><i>Asian School of Business (ASB),
+        Trivandrum is an autonomous institution offering an intensive MBA programme. As an established management institution that places emphasis on transcending the barriers created by ‘Conventional Education’, the business School is praised internationally for giving birth to a vibrant students’ community.</i></string>
+    <string name="cnis_msn"><i>Our Mission
+Christ Nagar International School aims at the holistic development of a student with great emphasis on the Spiritual, Emotional, Intellectual and Physical Integrity so that the student can face this challenging world without fear.
+        At CNIS this holistic development of an individual is attained through academic excellence, professional competence, personal, interpersonal and societal skills.</i></string>
+    <string name="cns_info"><i>Christ Nagar International School was started in 2004 by the Carmelites of Mary Immaculate (CMI), fathers, an indigenous Catholic religious congregation of India. This congregation is the embodiment of the dreams and visions of Blessed Kuriakose Elias Chavara, the great educational visionary of the 19th century and the founder of CMI congregation.
+
+CMI religious congregation is one among the biggest educational agencies in India which runs more than 400 schools and 35 colleges for higher education.</i></string>
+    <string name="cvk_info"><i>Welcome to Chinmaya Vidyalaya, Kunnumpuram, a school where education meets values! Started in the year 1980, under the able guidance of our first Principal Smt.Indira Kurup, our school grew both numerically and academically.
+
+
+
+Our school is affiliated to the Council for the Indian School Certificate Examinations (CISCE). Our school has played a pivotal role in manoeuvring children onto the right path, in alignment with their potential and has led them impeccably to maintain and reinforce their academic excellence. Our earnestness in providing knowledge, factored flawlessly with our students’ determination and hard work has even helped us to produce a state level topper in the board examinations.</i></string>
+    <string name="cvk_msn"><i>Our Vision
+We are a forward-thinking school aiming to prepare our children and students for a rapidly changing world by equipping them with critical thinking skills, global perspective, and respect for core values of honesty, loyalty, and compassion, leading to personal, physical, moral and spiritual development. Developing these skills is the corner stone of the education we offer following the Chinmaya Culture. Students will have success for today and be prepared for tomorrow.
+    Our Mission
+We at Chinmaya Vidyalaya Kunnumpuram,commit to educate the whole child and honor the diversity of each individual intellectually, emotionally, socially, physically and spiritually by developing in each member of the student community the ability and passion to work wisely, creatively, and effectively for the betterment of humankind and implement the Chinmaya Vision Programme in its entirety.
+    </i></string>
+    <string name="gcw_info"><i>Government College for Women, Thiruvananthapuram is a prestigious institution that has to its credit, a history of about 125 years of excellence in the field of women education and is a pioneering institution in the field of higher education. It is the sixth oldest college in Kerala and one of the oldest colleges for women in the country. Founded as the Sircar Girl’s School in 1864 by the Royal family of Travancore , it was later elevated to the status of a First grade college and was renamed as H.H. The Maharaja’s College for Women.
+The Govt. College for Women was established in 1897 with a clear mission to provide women with a modern, liberal education and thus to transform society and the nation. The college is committed to the ideas of liberal education and recognizes the fact that times have been changed that it must adapt and evolve to keep up with the rapidly changing world. So The College addresses the needs of the society through providing quality non-formal education also.</i></string>
+    <string name="gcw_msn"><i>
+The Government College for Women stands to:
+Provide a sound education in basic science and humanities
+Inculcate high values through liberal education
+Promote research and learning at the PG level and beyond
+Provide a broad range of non-formal educational services
+Transform society through the empowerment of women
+Provide inexpensive educational services to the weaker sections of the society and reinvent itself in response to the changing demands of society
+Develop responsible women leaders for the future</i></string>
+    <string name="ghc_info"><i>The school is spread over an area Elampa is 2.5 acres and has 10 buildings. Six of them are terraced buildings.
+        The physical facilities of Ilamba Government Higher Secondary School include a semi-permanent building, a multi-storied building with 32 classrooms, a library hall, 2 computer labs and well-equipped science labs.
+    It is located in Chirayinkeez Taluk in Thiruvananthapuram District.
+1.25 km distance to Ilamba Higher Secondary School if the bus alights at Ilamba basin on the Attingal Venjaramoodu route.
+If you get off the bus at Poikamuk on the Attingal Vamanapuram route, you can walk to Ilamba Higher Secondary School in 5 minutes.</i></string>
+    <string name="ghc_msn"><i>Ilamba School was at the forefront in getting recognitions. The school has made its mark in arts, literature, sports, IT, work experience and quiz competitions in various fields. It is an institution with a rich tradition of arts and sports. The alumni of the school itself are the crowning example of that. Having hosted well-known artists, sportspersons and cultural heroes, this church is still not behind in such activities.
+        It is a matter of pride not only for the school but also for the people of Ilamba that the children of this Vidyalaya Muthassi are serving in high ranks not only in Kerala but all over the world.</i></string>
+    <string name="ghsa_info"><i>The Maharaja of Travancore gave fifty acres of land to the school and began the transformation of the school in 1950. Pastutha School was upgraded to High School in 1957 during the first Kerala Cabinet.
+        A committee of the people of this village worked tirelessly to convert UPS into a high school.</i></string>
+    <string name="ghsa_msn"><i>High School and Higher Secondary have separate computer labs. There are about thirty computers in both the labs. Broadband internet facility is available in both the labs.
+    Extra Activities:
+    Scouts and Guides.
+File:Activities
+NCC
+Class magazine.
+Vidyarangam art literature venue.
+Club activities.
+Gandhi Darshan
+Anti-Drug Club
+Yoga practice
+Karate training
+School magazine
+Red Cross
+lunch</i></string>
+    <string name="ghsst_info"><i>Thattathumala Higher Secondary School is a government school located in the heart of Thatthatumala village.
+        It is commonly known as \'Poor man\'s school\'.
+        There are five sections namely Pre-Primary, Lower Primary, Upper Primary, High School and Higher Secondary.
+        This school, which belongs to Attingal Education District, Kilimanoor Sub-District in Thiruvananthapuram Revenue District, retains the status of the first fully-fledged Hi-Tech School in Kerala from 2018-19.</i></string>
+    <string name="ghsst_msn"><i>The school is situated on three acres of land. High School has 41 classrooms in 5 buildings and Higher Secondary has 6 classrooms in one building. The school has a very spacious playground. A new building with all hi-tech facilities for higher secondary is in progress.
+
+High School, Higher Secondary, UP and LP have separate AC computer labs. Broadband internet facility is available in all labs and classrooms.
+COMPLETE HI-TECH SCHOOL ""Govt., H.S.S. Thattathumala is known as Kerala\'s first complete high-tech school. Became a fully digital school on February 09, 2018. An interactive channel called "Mizhi" was also launched in conjunction with the Smart Room. It was inaugurated by Hon\'ble Finance Minister Mr. Thomas Isaac. All the classrooms from pre-primary to LP, UP, high school and higher secondary level have projector, laptop, sound system and ICT. Equipped with white board, shelf for storing materials and capable of running laptop. Also there are separate AC smart rooms for LP, UP, High School and Higher Secondary. ICT trained teachers at all levels in multimedia classrooms, smart classrooms, As per the teaching manual prepared in Samagra, the classes are being managed on ICT basis after obtaining the approval of HM/Principal. By downloading Mizhi app on mobile, all the programs conducted through the interactive channel "Mizhi" set up in the smart room of the school can be watched in each classroom and at home. From the first week of June 2019, from Monday to Thursday from class 1st to 12th, the assembly of each division will be presented through Mizhi and the children will be presented in their own channel. All the cultural activities (drama, dance, music, folk songs, skits etc.) conducted in the school are performed by children in Malayalam, English, Hindi and Arabic through "Mizhi".</i></string>
+    <string name="glc_info"><i>The Government Law College, Thiruvananthapuram formed in 1875 is one of the oldest institution imparting legal education in India. Affiliated to the Faculty of Law of University of Kerala, the college is supervised and controlled by the Government of Kerala and was ranked as the 23rd best law college in India in 2007 by INDIA TODAY.
+
+
+
+The college conduct courses in LLM Degree of 2 years duration in 4 semesters with specialisation in Constitutional Law &amp; International Law. And LLB Degree course 3 years duration in 6 semesters and LLB Degree course 5 years duration in 10 semesters. The admission to each courses is made through its common entrance examination conducted by the Commissioner for Entrance Examination, Govt. of Kerala.
+
+
+
+With a well experienced and eminent team of faculty, the college produces top scorers of the University every year. The College has a well maintained Library and reading room to facilitate students and has hostel facility for male students.In pursuance of the decision of the Hon\'ble Supreme Court an Anti-Ragging Committee and an Anti-Ragging Squad have been constituted with the Principal as the head, to curb ragging. And there is also a Women Grievance Cell to look into the general welfare of women in the college.</i></string>
+    <string name="glc_msn"><i>MISSION
+
+Serve the law, teach it, study it, practice it, and work to humanise and instill an ethic of service to clients and community.
+
+VISION
+
+Rooted in the heritage of over a hundred and forty years, we aspire to establish the institute as the torchbearer in the field of legal education in the country. A temple of learning where one understands the delicate balance of law. We aim to delve into the depths of law to retrieve the light of justice for the needy. It is in our vision to envisage laws to embrace the changing human needs by treating all as equal in a justice oriented manner.</i></string>
+    <string name="gmb_info"><i>In 1885, a normal school was started in Trivandrum by the government of Travancore for training male teachers. It was situated in the compound where St.Joseph\'s Higher Secondary school is at present. In 1903 it was shifted to Thycaud. The magnificent main building of the school, an example of European architecture, was built in 1910 during the reign of Maharaja Sree Moolam Thirunal Ramavarma.
+
+The first headmaster was Dr. C F Clarke who served for three years. He lived on the school campus; the house where he stayed remains as Clarke\'s Bungalow. One of the earliest headmasters of the training college was Shri. P.G. Sadasiva Iyer, who was an M.A. in Chemistry from the Madras Presidency college. The school was the city\'s first English, Malayalam, Tamil medium school.
+
+Higher secondary school
+When the Kerala State Board of Education decided to move the two-year intermediate course (the course between high school and university) from colleges to schools in 1998, Model School was part of the program. As part of this change, the name of the school was changed to Government Model Higher Secondary School.</i></string>
+    <string name="gmb_msn"><i>OBJECTIVE OF THE PROJECT The objective of this project is to raise the following areas to international standards.
+
+curricular activities
+Skill development of teachers
+Infrastructure
+Library and lab facilities
+Sports Education
+Art studies
+Empowerment of parents
+Monitoring and evaluation of school activities
+Archaeological conservation of the school
+School Management</i></string>
+    <string name="jcmcsiit_info"><i>John Cox Memorial C.S.I Institute Of Technology , Kannammola, Thiruvananthapuram with G. O. (MS) No. 124/09/H.Edn dt.3.8.09 Govt. of Kerala and affiliated with AICTE F. No. 06/06/KER/ENGG/2009-10/020 dt. 30.6.2009, Govt. of India, is functioning under the administrative control of the Society for Technical Training (STT) of South Kerala Diocese (SKD) of Church of South India (CSI), which is an educational agency fully owned and controlled by South Kerala Diocese (SKD) . The management of the institution is vested with the Governing Body and the Executive Committee headed by the Rt. Rev. A. DHARMA RAJ RASALAM, as Chairman &amp; Manager. The constitution of the Executive Committee and Governing body is under charitable societies Registration Act XII of 1955. The institution is approved by AICTE and affiliated to the APJ Abdul Kalam Technological University Thiruvananthapuram for its academic programs.
+
+John Cox Memorial C.S.I Institute Of Technology (JIT) started in 2009 is an institution of the Society for Technical Training, a Charitable Society under the South Kerala Diocese of the South India United Church (SIUC) of the Church of South India (CSI) Trust Association. The Registered Office of the Society for Technical Training is at LMS Compound, Thiruvananthapuram.
+
+The John Cox Memorial CSI Institute of Technology is located at Kannammoola (Kannammoola - Medical College Road), 3 Km away from Pettah Railway Station, 5 Km away from the Thiruvananthapuram Bus Station and Railway Station, 4 Km away from the Kerala Legislative Assembly and 2 Km away from the Thiruvanathapuram Medical College and is well connected by roads.</i></string>
+    <string name="jcmcsiit_msn"><i>VISION
+To Strive continuously for excellence in the field of technical education for serving the society, nation and world through excellent teaching, learning and living ambience.
+
+
+MISSION
+To develop and excel as a centre of excellence, imparting quality technical education, supporting research and developmental activities, generating competent and skilled young potent engineers to face the ensuing scientific, technological, managerial, ecological and societal challenges of the world as a whole and the nation in particular with a high degree of credibility, integrity, ethical standards and societal concern.</i></string>
+    <string name="mbcet_info"><i>As a proud part of the Mar Ivanios Vidyanagar on the blessed Bethany Hills, deriving the inner strength of truth and goodness from the visionary Patrons, MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY (MBCET) inspires the aspirations of generations of knowledge-seekers. Dedicated to mould morally upright, socially committed and intellectually trained Engineers, the College strives to realize its dreams.
+
+The aesthetically designed buildings in nine blocks spread over the campus have a total built-up area of over 32000 sq. m. An eco-friendly infrastructure concept, causing least disturbance to the landscape has been executed. Rain water harvesting has been implemented right from the beginning of the College. Each block is connected by Pedestrian Bridge, retaining the separate entity of each branch of Engineering, Chaitanya – The Administrative block, Thejus – The Academic Block, Nalanda – The Library, Yantra – The Mechanical Engineering Block and Nirmithi – The Civil Engineering Block. Olympia, houses the Amenity Centre, Auditorium, Food Court, Indoor Courts, Gymnasium, Placement Rooms and so on.
+    As an autonomous college, MBCET will have the freedom to
+
+Determine and prescribe its own courses of study and syllabi, and restructure and redesign the courses to suit local needs
+Offer student-centric courses including a wide range of electives with freedom in choice of courses
+Regularly update the syllabus in accordance with the evolution of technology, trends in research and changing requirements of the industry
+Evolve methods of assessment of students’ performance that is well integrated and aligned with the teaching and learning process
+Conduct of examinations and notification of results in a timely manner
+Promote healthy practices such as community service, extension activities and projects for the benefit of the society</i></string>
+    <string name="mbcet_msn"><i>Vision
+To be an Institution moulding globally competent Professionals as epitomes of Noble Values.
+
+Mission
+To transform the Youth as technically competent, ethically sound and socially committed professionals, by providing a vibrant learning ambience, for the welfare of humanity.
+
+Core Values
+Professional Excellence
+Innovation
+Commitment
+Accountability
+Tolerance
+Integrity
+Social Responsibility</i></string>
+    <string name="mgm_info"><i>MGM Central Public School (MGMCPS), established in 2005 as a co-educational institution under the management of Dr. Geevarghese Yohannan Charitable Trust, is widely acclaimed for its pioneering contribution in the fields of education. As envisioned by its Founder and Chairman, Dr. Geevarghese Yohannan, the school is committed to providing world-class education supported by state-of-the-art infrastructure and technology-aided teaching.
+
+MGMCPS’s curriculum lays emphasis on a child-friendly, stress-free approach in teaching and learning, thereby imparting world-class education with scholastic and co-scholastic excellence in the spotlight.
+
+The school is located about 1 Km from the Akkulam Bridge, at Karimanal, overlooking the scenic Akkulam Lake meeting the Arabian Sea.</i></string>
+    <string name="mgm_msn"><i>MGM Group of the institution is committed to realizing the futuristic vision of its founders - a society educated to Global standards willing to exercise its refined faculties for the greater common cause.
+
+To provide a quality education that enhances the development of cognitive, affective and psychomotor skills that forms the essence of holistic growth.
+To develop a positive attitude, self-esteem, goal setting and above all, the spirit of adventure.
+To mold the child into a responsible and self-reliant citizen who would love to see peace prevail.
+To inculcate in every child truth, faith in God, patriotism and universal consciousness.
+To provide value-based education rooted in Indian tradition and cultural heritage.</i></string>
+    <string name="njv_info"><i>The late Archbishop, Servant of God Mar Ivanios OIC was born on September 21, 1882 at Mavelikkara.
+Born in the famous Mallitta Panicker family belonging to the Malankara Syrian Orthodox church, he
+assumed the baptismal name Geevarghese. Young Geevarghese, a brilliant student in his early
+school days, at the age of 15 received minor orders and was sent to Madras Christian College for
+higher studies. Then he obtained his Master\'s Degree. On 15th September 1908 Geevarghese was ordained a priest by His
+Grace Vattasseril Mar Dionysius. Just after ordination, Fr. P.T. Geevarghese was appointed principal of
+M. D. Seminary, Kottayam. Later the young principal moved to Calcutta accepting an invitation to
+teach in the Serampore College. During his stay at Calcutta, Fr. P.T. Geevarghese concentrated his
+attention on the foundation of a monastic community as an instrument of spiritual renewal within
+the Syrian Orthodox Church. In his attempt, he was very well inspired by the Christian and Hindu
+monastic traditions. After making the necessary arrangements to begin such a form of life, he
+resigned his professorship at Serampore and started the community on 15th August 1919 at
+Mundanmala, Ranni in Kerala, to which he gave the name Bethany Ashram.
+Within no time, Bethany Ashram and its beloved founder came to the limelight of the Malankara
+Orthodox Church. Abo Geevarghese OIC was consecrated Bishop of Bethany on 1st May 1925 and he
+received the new name Mar Ivanios OIC. His relentless search for truth in the ascetic atmosphere of
+Bethany Ashram led him to the firm conviction to reunite with the Catholic Church. On 20th
+September 1930, Mar Ivanios, together with Mar Theophilos and most of the members of Bethany
+Ashram embraced the Catholic Church. As later history reveals, the reunion movement gained rapid
+momentum under the leadership of Mar Ivanios OIC, an eminent scholar, a man of great vision, a
+spiritual leader. Mar Ivanios OIC rightfully earned the title Newman of the East even before his
+demise on 15th July 1953. He could capture the attention of the world as a sage, founder of religious
+communities, an apostle of church unity, scholar and author of more than thirty books, a social
+reformer and a true Sacerdos Magnus, a pillar of the church in India.
+</i></string>
+    <string name="njv_msn"><i>Navajeevan Bethany Vidyalaya was founded in the year 2002. It is an English medium Co-educational Independent school affiliated to CBSE with affiliation number 930641 and has a General affiliation which is valid up to 31/3/2021.
+
+It lies in the Thiruvananthapuram district of Kerala and is currently being managed by the Navajeevan Bethany, Kerala. It is presently under the principal -administration of SHAHNA RENJITH. There are a total of 49 rooms, 4 Labs, and 2 Library present in the school.</i></string>
+    <string name="phss_info"><i>An educational institution must provide the right kind of learning environment and must have accessibility. Pattom Girls Higher Secondary School is the right choice on both accounts. It has the best possible infrastructure and is conveniently located.
+A major shift in thinking has now encouraged us to accept that the learning process is instrumental in the formation of personality and the way in which the child deals with real life situations. This shift from a focus on academic alone, to a focus on knowledge of life has been given due importance at our school. We enable the children to cultivate healthy thought processes and groom their cognitive abilities.
+Pattom Girls Higher Secondary School aims at empowering each student to excel in all aspects of life. The aim is to offer educational skills that enrich the intellectual as well as emotional realms of personality. To instill the importance of hard work and dedication irrespective of limiting circumstances is a continuous goal. Each student here is encouraged to raise her self-esteem and expectations of self , to become an achiever.She is challenged to help herself establish and nourish her full potential.</i></string>
+    <string name="phss_msn"><i>Learning in a caring and fun-filled atmosphere…
+Nothing is an impediment here to learn and grow…
+Campus devoid of the digital divide…
+Full-fledged functioning of Literary, Charity, Souhruda, Career Guidance, Eco Club, and NSS
+Science, Humanities &amp; Commerce Day Celebrated to give due importance to all subjects
+Field Trips &amp;Study tours to get a hands-on experience of the courses
+Student Workshops and Regular Motivation Sessions
+ Karuthu: Self Defence for girls, Training in Wushu
+Cycle Club and cycling training
+Remedial teaching keeping in view the needs of the students.
+On par with International Standards
+Fully equipped Science, Maths, Commerce, Computer and Geography Labs
+District Topper in State Kalolsavams
+Regular periodic tests and evaluation of students
+ Film Festivals, Drama Workshops to encourage the budding stars
+ Individual attention to students and learning enhancement programs</i></string>
+    <string name="strs_info"><i>Small beginnings pave the way for great enterprises.  STRS, the fledgling of MTCES, began as a modest venture into the field of academics with just 6 students on 6 June 1966. Today STRS has established itself as a Centre of Excellence, imparting quality education to students and preparing them for the Indian Certificate of Secondary Education Examination (ICSE – Class X) and also for the Indian School Certificate Examination (ISC-Class XII) conducted by the Council for Indian School Certificate Examinations, New Delhi.
+
+Within the hallowed precincts of this great institution the students are initiated into the world of knowledge, nurtured and trained to be the best talents in the country, who occupy pride of place in the top most echelons of society. All the top ranking universities and professional colleges have a fair share of the alumni of STRS. Much of the credit for this high standard of scholarship goes to a team of dedicated teachers who impart knowledge with professionalism and commitment and the sharp and keen scholars who pursue knowledge with meticulous thoroughness. Ranked as Kerala’s No.1 Co-Educational Boarding School in the Educational World India School Ranking for two consecutive years, STRS is a name to reckon with in the academic, literary, cultural and Sports fields, assuring the best of holistic education to its students
+
+The school is located on a sprawling 30 acre campus in a picturesque locale at Mukkolakkal, A state of the art Computer Lab, modern Tennis and Hockey courts, Skating rink, Stadium and a Chapel to cater to the spiritual well being of the students lend the most congenial ambience for the smooth conduct of the teaching-learning process. The campus has hostels for boys and girls and can accommodate about 350 students in 3 hostels. The sister concerns STCS and STHSS as well as St.Thomas Training College are situated on the same campus, making it the most prestigious centre of learning in Trivandrum city.</i></string>
+    <string name="strs_msn"><i>To Ensure Inclusion and Access of Quality Education.
+To Provide an Environment of Learning that enhances Dissemination of Knowledge.
+To Nurture Research and Innovation for the betterment of Life and Progress of the Nation.
+To Undertake Collaborative Partnerships for Facilitating Exposure and Sharing.
+To Impart Social and Environmental Sensitivity in Students through Extension and Outreach.
+To Equip Students with Life Skills in Facing Challenges and Responsibilities.
+To Help Students attain Moral, Spiritual and Emotional integrity.</i></string>
+
+
+</resources>

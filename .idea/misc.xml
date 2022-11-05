@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable-v24/custom_button.xml" value="0.1765" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable-v24/ic_down_arrow.xml" value="0.1765" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable-v24/ic_steps.xml" value="0.1765" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable/calendar.xml" value="0.1765" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable/chat.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable/colorbg.xml" value="0.1115" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable/header.xml" value="0.189" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/drawable/language.xml" value="0.1765" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ace1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ace2.xml" value="0.2" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ace3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_asb1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_asb2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_asb3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cet2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cet3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cetinfo.xml" value="0.2" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cnis1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cnis2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cnis3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cvk1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cvk2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_cvk3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_edu_help_review.xml" value="0.10106382978723404" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gcw1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gcw2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gcw3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gecb1.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gecb2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gecb3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghc1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghc2.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghc3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsa1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsa2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsa3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsst1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsst2.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_ghsst3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_glc1.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_glc2.xml" value="0.2" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_glc3.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gmb1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gmb2.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_gmb3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_govt_college.xml" value="0.264" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_govt_school.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_jcmcsiit1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_jcmcsiit2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_jcmcsiit3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_login.xml" value="0.19095477386934673" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_marivan.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_marivan2.xml" value="0.176" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_marivan3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mbcet1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mbcet2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mbcet3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mgm1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mgm2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_mgm3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_njv1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_njv2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_njv3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_other_options'.xml" value="0.10790273556231003" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_other_options.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_phss1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_phss2.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_phss3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_priv_college.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_priv_school.xml" value="0.264" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_register.xml" value="0.19095477386934673" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_review.xml" value="0.1" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_school_admission.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_sct1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_sct2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_sct3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_smv1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_strs1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_strs2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/activity_strs3.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/raada/AndroidStudioProjects/Test14/app/src/main/res/layout/slider_item.xml" value="0.19444444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

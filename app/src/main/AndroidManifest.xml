@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.test14">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Test14"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".SchoolAdmission"
+            android:exported="false" />
+        <activity
+            android:name=".otherOptions"
+            android:exported="false" />
+        <activity
+            android:name=".EduHelpReviewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".govt_school"
+            android:exported="false" />
+        <activity
+            android:name=".ghsst3"
+            android:exported="false" />
+        <activity
+            android:name=".ghsst2"
+            android:exported="false" />
+        <activity
+            android:name=".ghsst1"
+            android:exported="false" />
+        <activity
+            android:name=".ghc3"
+            android:exported="false" />
+        <activity
+            android:name=".ghc2"
+            android:exported="false" />
+        <activity
+            android:name=".ghc1"
+            android:exported="false" />
+        <activity
+            android:name=".ghsa2"
+            android:exported="false" />
+        <activity
+            android:name=".ghsa1"
+            android:exported="false" />
+        <activity
+            android:name=".phss3"
+            android:exported="false" />
+        <activity
+            android:name=".phss2"
+            android:exported="false" />
+        <activity
+            android:name=".phss1"
+            android:exported="false" />
+        <activity
+            android:name=".gmb3"
+            android:exported="false" />
+        <activity
+            android:name=".gmb2"
+            android:exported="false" />
+        <activity
+            android:name=".gmb1"
+            android:exported="false" />
+        <activity
+            android:name=".cvk3"
+            android:exported="false" />
+        <activity
+            android:name=".cvk2"
+            android:exported="false" />
+        <activity
+            android:name=".cvk1"
+            android:exported="false" />
+        <activity
+            android:name=".njv3"
+            android:exported="false" />
+        <activity
+            android:name=".njv2"
+            android:exported="false" />
+        <activity
+            android:name=".njv1"
+            android:exported="false" />
+        <activity
+            android:name=".strs3"
+            android:exported="false" />
+        <activity
+            android:name=".strs2"
+            android:exported="false" />
+        <activity
+            android:name=".strs1"
+            android:exported="false" />
+        <activity
+            android:name=".cnis3"
+            android:exported="false" />
+        <activity
+            android:name=".cnis2"
+            android:exported="false" />
+        <activity
+            android:name=".cnis1"
+            android:exported="false" />
+        <activity
+            android:name=".mgm3"
+            android:exported="false" />
+        <activity
+            android:name=".mgm2"
+            android:exported="false" />
+        <activity
+            android:name=".mgm1"
+            android:exported="false" />
+        <activity
+            android:name=".priv_school"
+            android:exported="false" />
+        <activity
+            android:name=".asb3"
+            android:exported="false" />
+        <activity
+            android:name=".asb2"
+            android:exported="false" />
+        <activity
+            android:name=".asb1"
+            android:exported="false" />
+        <activity
+            android:name=".jcmcsiit3"
+            android:exported="false" />
+        <activity
+            android:name=".jcmcsiit2"
+            android:exported="false" />
+        <activity
+            android:name=".jcmcsiit1"
+            android:exported="false" />
+        <activity
+            android:name=".ace3"
+            android:exported="false" />
+        <activity
+            android:name=".ace2"
+            android:exported="false" />
+        <activity
+            android:name=".ace1"
+            android:exported="false" />
+        <activity
+            android:name=".mbcet3"
+            android:exported="false" />
+        <activity
+            android:name=".mbcet2"
+            android:exported="false" />
+        <activity
+            android:name=".mbcet1"
+            android:exported="false" />
+        <activity
+            android:name=".reviewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".glc3"
+            android:exported="false" />
+        <activity
+            android:name=".glc2"
+            android:exported="false" />
+        <activity
+            android:name=".glc1"
+            android:exported="false" />
+        <activity
+            android:name=".gcw3"
+            android:exported="false" />
+        <activity
+            android:name=".gcw2"
+            android:exported="false" />
+        <activity
+            android:name=".gcw1"
+            android:exported="false" />
+        <activity
+            android:name=".gecb3"
+            android:exported="false" />
+        <activity
+            android:name=".gecb2"
+            android:exported="false" />
+        <activity
+            android:name=".gecb1"
+            android:exported="false" />
+        <activity
+            android:name=".sct3"
+            android:exported="false" />
+        <activity
+            android:name=".sct2"
+            android:exported="false" />
+        <activity
+            android:name=".sct1"
+            android:exported="false" />
+        <activity
+            android:name=".marivan3"
+            android:exported="false" />
+        <activity
+            android:name=".cet3"
+            android:exported="false" />
+        <activity
+            android:name=".marivan2"
+            android:exported="false" />
+        <activity
+            android:name=".marivan"
+            android:exported="false" />
+        <activity
+            android:name=".PrivCollege"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cet2"
+            android:exported="false" />
+        <activity
+            android:name=".cet1"
+            android:exported="false" />
+        <activity
+            android:name=".GovtCollege"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
